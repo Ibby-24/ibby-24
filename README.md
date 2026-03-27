@@ -44,6 +44,19 @@ Hello, welcome.
 
 ---
 
+## 🌾 Project Index
+
+<div align="center">
+
+| 🍃 Project | 🌱 Description | 🍂 Status |
+|-----------|--------------|----------|
+| ⚽ [Serie A Score Predictor](https://github.com/Ibby-24/Serie-A-Predictor) | Neural network trained on historical match data to predict Serie A scorelines  | 🌿 Completed |
+| 🗣️ [Neapolitan-English Parallel Corpus & Translator](https://github.com/Ibby-24/neapolitan-english-parallel-corpus) | Building a parallel corpus and translation tool for the Neapolitan language | 🌱 In Progress |
+
+</div>
+
+---
+
 ## 🌿 Tech Stack
 
 <div align="center">
